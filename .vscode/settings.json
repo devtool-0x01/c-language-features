@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "ctype.h": "c",
+        "stdio.h": "c",
+        "strings.h": "c",
+        "string.h": "c",
+        "stdbool.h": "c",
+        "stdlib.h": "c"
+    },
+    "C_Cpp.default.intelliSenseMode": "clang-x64"
+}
