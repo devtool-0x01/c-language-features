@@ -12,10 +12,11 @@ Also contains some sample code
 ## Build
 
 You will need make and gcc or clang C compiler installed on your machine.
+Following are the commands used on a Macbook:
 
 ```bash
 # if you have make installed, run make
-$ cs src
+$ cd src
 $ make
 ```
 
