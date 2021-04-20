@@ -36,6 +36,12 @@ To clean/remove compiled files run
 $ make clean
 ```
 
+## Contribute
+
+If these notes have been helpful and you would like to help improve/add or if help fix a mistake, please consider contributing. 🙏
+
+Let's learn and help others learn along with us.
+
 ## Author
 
 Gagan Singh
